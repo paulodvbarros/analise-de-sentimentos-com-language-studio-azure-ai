@@ -17,12 +17,6 @@ Durante o desenvolvimento deste projeto, pude explorar várias funcionalidades i
 - **Azure Bot Service**: Configurei um bot que responde perguntas com base nas informações extraídas do texto. A integração com o Language Studio foi bem simples e eficiente.
 - **Processamento de Linguagem Natural (NLP)**: Entendi como a IA pode ser usada para interpretar textos de forma inteligente, o que abre muitas possibilidades para aplicações reais.
 
-## Prints das ferramentas
-Aqui estão algumas imagens do processo:
-
-![Análise de texto no Azure Language Studio](link_para_imagem_1.png)
-![Configuração do bot no Azure Bot Service](link_para_imagem_2.png)
-
 ## Próximos passos
 Agora que o projeto está funcionando, quero explorar mais funcionalidades, como:
 - Adicionar suporte a mais idiomas.
